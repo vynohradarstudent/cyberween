@@ -1,0 +1,16 @@
+body {
+    background-color: #000e4f;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.page {
+    background-color: #00146c;
+    width: 400px;
+    border-radius: 5%;
+}
+
+.photo-hero{
+    border-radius: 10%;
+    margin-left: 10%;
+}

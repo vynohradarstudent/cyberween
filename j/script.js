@@ -8,7 +8,7 @@ $(document).ready(async function () {
         <div class='page'>
         <h2>${e.name}</h2>
          <p>Description: ${e.about}</p>
-         <img src="${e.photo_url}" alt="Photo about ${e.name}" width="300px">
+         <img src="${e.photo_url}" alt="Photo about ${e.name}" width="300px" class='photo-hero'>
          </div>`);
     });
 });
